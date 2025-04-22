@@ -1,7 +1,7 @@
-🏦 Credit Card Default Prediction
+# Credit Card Default Prediction
 This project analyzes and builds models on the Default of Credit Card Clients Dataset to predict the likelihood of a customer defaulting on their payment next month.
 
-📚 Dataset Details
+## Dataset Details
 Source: UCI Machine Learning Repository
 
 Entries: 30,000 clients
